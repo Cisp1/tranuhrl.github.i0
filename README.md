@@ -1,5 +1,9 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
+    <h1>This repo was forked by Tran Uhrl to:</h1>
+    <br>
+    <h1>Add Leave Confirmation, and Open in settings tab so it wouldn't close out of Interstellar for blocksi users</h1>
+    <h1>IMPORTANT: If deploying on codespaces or somewhere else, I mistakenly typed in "npm install" so please only write "npm start" and not both of them.</h1>
     <p>Serving over 8+ million users since 2023.<p>
     <p>Interstellar is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone. (THIS VERSION OF INTERSTELLAR WAS EDITED BY TRANUHRL TO ADD LEAVE CONFIRMATION FOR EXTENSIONS LIKE BLOCKSI)</p>
 </div>
