@@ -224,6 +224,19 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
+// Leave Confirmation
+
+function toggleConf() {
+  var confCheck = localStorage.getItem("leaveConfirmation")
+  if (confCheck !== 'enabled') {
+    localStorage.setItem('leaveConfirmation', 'enabled')
+  } else {
+    localStorage.setItem('leaveConfirmation', 'disabled')
+  }
+  window.location.reload();
+}
+
+
 // Particles
 const switches = document.getElementById("2");
 
