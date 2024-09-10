@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
     <p>Serving over 8+ million users since 2023.<p>
-    <p>Interstellar is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
+    <p>Interstellar is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone. (THIS VERSION OF INTERSTELLAR WAS EDITED BY TRANUHRL TO ADD LEAVE CONFIRMATION FOR EXTENSIONS LIKE BLOCKSI)</p>
 </div>
 
 ![inpreview](https://github.com/UseInterstellar/Interstellar/assets/89202835/2669efed-5186-4932-83c4-725acae60bd2)
@@ -15,6 +15,7 @@
 
 - About:Blank Cloaking
 - Tab Cloaking
+- Leave Confirmation
 - Wide collection of apps & games
 - Clean, Easy to use UI
 - Inspect Element
