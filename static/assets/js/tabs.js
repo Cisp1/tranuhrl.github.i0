@@ -39,6 +39,12 @@ window.addEventListener("load", () => {
     return url;
   }
 });
+window.onbeforeunload = function (e) {
+  const confirmationMessage = "Are you sure you want to leave this page?";
+  e.returnValue = confirmationMessage; // Modern browsers use this property
+  return confirmationMessage; // For compatibility, but often ignored by modern browsers
+};
+
 document.addEventListener("DOMContentLoaded", event => {
   const addTabButton = document.getElementById("add-tab");
   const tabList = document.getElementById("tab-list");
