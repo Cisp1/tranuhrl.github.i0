@@ -40,7 +40,7 @@ window.addEventListener("load", () => {
   }
 });
 window.onbeforeunload = function (e) {
-  const confirmationMessage = "Are you sure you want to leave this page?";
+  const confirmationMessage = "Click leave to prevent Blocksi from blocking the page.";
   e.returnValue = confirmationMessage; // Modern browsers use this property
   return confirmationMessage; // For compatibility, but often ignored by modern browsers
 };
